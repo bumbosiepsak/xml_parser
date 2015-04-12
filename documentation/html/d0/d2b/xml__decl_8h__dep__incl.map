@@ -1,0 +1,17 @@
+<map id="includes/middleware/xml/impl/xml_decl.h" name="includes/middleware/xml/impl/xml_decl.h">
+<area shape="rect" id="node3" href="$db/d49/encoding__specific_8h.html" title="Base template for core encoders/decoders. Needs specialisation for a particular encoding. " alt="" coords="172,97,369,138"/>
+<area shape="rect" id="node26" href="$d1/ddf/xml__decoder__selector_8h.html" title="Decoder selector &#45; chooses the XML decoder based on first bytes of data or encoding name given in XML..." alt="" coords="5,187,163,243"/>
+<area shape="rect" id="node5" href="$df/d41/encoding__specific__ascii_8h.html" title="Core encoder/decoder for ASCII encoding. " alt="" coords="589,187,776,243"/>
+<area shape="rect" id="node21" href="$d3/d6d/encoding__specific__utf8_8h.html" title="Core encoder/decoder for UTF&#45;8 encoding. " alt="" coords="379,187,565,243"/>
+<area shape="rect" id="node32" href="$d6/d80/xml__encoder_8h.html" title="Applies an encoder to input code point and feeds the stream with encoded data. " alt="" coords="187,194,353,235"/>
+<area shape="rect" id="node7" href="$dd/dc6/xml__encodings_8h.html" title="Default outer encodings list (ones that are recognized by parser) " alt="" coords="568,298,720,339"/>
+<area shape="rect" id="node19" href="$dd/dfa/encoding__specific__ascii_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_ascii.cpp" alt="" coords="744,291,931,347"/>
+<area shape="rect" id="node9" href="$d7/d5a/xml__transcoder_8h.html" title="Offers transcoding of strings encoded with different encodings. " alt="" coords="552,395,733,437"/>
+<area shape="rect" id="node13" href="$dd/de7/xml__node_8h.html" title="Default node type (typedef increasing user&#45;friendliness). " alt="" coords="757,395,904,437"/>
+<area shape="rect" id="node15" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="192,486,339,527"/>
+<area shape="rect" id="node17" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="368,486,521,527"/>
+<area shape="rect" id="node11" href="$d8/d12/xml__error__printer__std_8h.html" title="XML parsing error printer for STD environment. " alt="" coords="550,486,735,527"/>
+<area shape="rect" id="node24" href="$dd/d77/encoding__specific__utf8_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_utf8.cpp" alt="" coords="357,291,544,347"/>
+<area shape="rect" id="node28" href="$de/d8a/xml__parser__basic_8h.html" title="includes/middleware\l/xml/xml_parser_basic.h" alt="" coords="171,395,337,437"/>
+<area shape="rect" id="node34" href="$d5/d81/xml__context_8h.html" title="Local storage for XML parser. " alt="" coords="173,298,332,339"/>
+</map>

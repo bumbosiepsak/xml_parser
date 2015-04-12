@@ -1,0 +1,7 @@
+<map id="middleware::xml::xml_node_basic&lt; Encoding &gt;" name="middleware::xml::xml_node_basic&lt; Encoding &gt;">
+<area shape="rect" id="node2" href="$db/d02/classmiddleware_1_1xml_1_1impl_1_1xml__node__tree.html" title="{middleware::xml::impl\l::xml_node_tree\&lt; xml\l_node_basic\&lt; Encoding \&gt; \&gt;\n||+ xml_node_tree()\l+ xml_node_tree()\l+ ~xml_node_tree()\l+ operator=()\l+ operator==()\l+ swap()\l+ get_children()\l+ set_children()\l}" alt="" coords="5,561,195,770"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="50,147,171,224"/>
+<area shape="rect" id="node8" href="$db/d02/classmiddleware_1_1xml_1_1impl_1_1xml__node__tree.html" title="{middleware::xml::impl\l::xml_node_tree\&lt; Payload \&gt;\n||+ xml_node_tree()\l+ xml_node_tree()\l+ ~xml_node_tree()\l+ operator=()\l+ operator==()\l+ swap()\l+ get_children()\l+ set_children()\l}" alt="" coords="136,288,331,483"/>
+<area shape="rect" id="node11" href="$d5/db4/structmiddleware_1_1xml_1_1xml__node__type.html" title="{middleware::xml::xml\l_node_type\n|+ value\l|+ xml_node_type()\l+ xml_node_type()\l+ operator==()\l+ is_valid()\l+ is_root()\l+ is_attribute()\l+ is_element()\l+ is_instruction()\l+ is_comment()\l}" alt="" coords="219,561,369,770"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="407,339,533,431"/>
+</map>

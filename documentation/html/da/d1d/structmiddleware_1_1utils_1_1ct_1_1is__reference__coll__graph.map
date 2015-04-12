@@ -1,0 +1,7 @@
+<map id="middleware::utils::ct::is_reference&lt; T &gt;" name="middleware::utils::ct::is_reference&lt; T &gt;">
+<area shape="rect" id="node2" href="$d7/dc2/structmiddleware_1_1utils_1_1ct_1_1ice__or.html" title="{middleware::utils::\lct::ice_or\&lt; is_lvalue\l_reference\&lt; T \&gt;::value,\lis_rvalue_reference\&lt; T\l \&gt;::value \&gt;\n||}" alt="" coords="25,733,189,869"/>
+<area shape="rect" id="node4" href="$d4/d34/structmiddleware_1_1utils_1_1ct_1_1bool__.html" title="{ct::true_\n||}" alt="" coords="73,605,143,683"/>
+<area shape="rect" id="node6" href="$d8/df1/structmiddleware_1_1utils_1_1ct_1_1integral__c.html" title="{middleware::utils::\lct::integral_c\&lt; bool, C \&gt;\n|+ value\l|+ operator bool()\l}" alt="" coords="5,305,171,397"/>
+<area shape="rect" id="node12" href="$d4/d34/structmiddleware_1_1utils_1_1ct_1_1bool__.html" title="{middleware::utils::\lct::bool_\&lt; C \&gt;\n||}" alt="" coords="110,449,241,541"/>
+<area shape="rect" id="node8" href="$d8/df1/structmiddleware_1_1utils_1_1ct_1_1integral__c.html" title="{middleware::utils::\lct::integral_c\&lt; T, N \&gt;\n||+ operator T()\l}" alt="" coords="13,147,161,239"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="includes/middleware/xml/impl/xml_decoder_selector.h" name="includes/middleware/xml/impl/xml_decoder_selector.h">
+<area shape="rect" id="node9" href="$da/d2c/xml_2fwd_2ct_2begin_8h.html" title="middleware/xml/fwd\l/ct/begin.h" alt="" coords="619,110,761,151"/>
+<area shape="rect" id="node15" href="$de/d5c/xml_2fwd_2ct_2deref_8h.html" title="middleware/xml/fwd\l/ct/deref.h" alt="" coords="286,110,428,151"/>
+<area shape="rect" id="node20" href="$d1/d5d/xml_2fwd_2ct_2for__each_8h.html" title="middleware/xml/fwd\l/ct/for_each.h" alt="" coords="453,110,595,151"/>
+<area shape="rect" id="node31" href="$db/db9/xml_2fwd_2ct_2size_8h.html" title="middleware/xml/fwd\l/ct/size.h" alt="" coords="786,110,928,151"/>
+<area shape="rect" id="node36" href="$d2/dc7/xml__decl_8h.html" title="XML declaration (first four octets) used to auto&#45;detect the encoding. " alt="" coords="1255,201,1401,242"/>
+<area shape="rect" id="node40" href="$de/ded/xml__decoder_8h.html" title="Applies a decoder to a stream and creates a decoded stream. " alt="" coords="1004,110,1151,151"/>
+<area shape="rect" id="node42" href="$d8/dd8/decode__function_8h.html" title="Trait metafunction that creates a decoder function type for a given XML stream type. " alt="" coords="1004,201,1151,242"/>
+<area shape="rect" id="node46" href="$db/d49/encoding__specific_8h.html" title="Base template for core encoders/decoders. Needs specialisation for a particular encoding. " alt="" coords="1175,110,1321,151"/>
+<area shape="rect" id="node11" href="$d3/dc1/ct_8h.html" title="Namespace &quot;::middleware::xml::fwd::ct&quot;. " alt="" coords="569,208,735,235"/>
+<area shape="rect" id="node13" href="$d8/d8a/utils_2ct_2begin_8h.html" title="middleware/utils/ct\l/begin.h" alt="" coords="717,291,851,333"/>
+<area shape="rect" id="node18" href="$db/dc5/utils_2ct_2deref_8h.html" title="middleware/utils/ct\l/deref.h" alt="" coords="241,291,375,333"/>
+<area shape="rect" id="node23" href="$d9/d26/utils_2ct_2for__each_8h.html" title="middleware/utils/ct\l/for_each.h" alt="" coords="410,201,544,242"/>
+<area shape="rect" id="node26" href="$d8/d77/end_8h.html" title="middleware/utils/ct\l/end.h" alt="" coords="558,291,692,333"/>
+<area shape="rect" id="node29" href="$db/d43/next_8h.html" title="middleware/utils/ct\l/next.h" alt="" coords="399,291,533,333"/>
+<area shape="rect" id="node34" href="$d2/d2a/utils_2ct_2size_8h.html" title="middleware/utils/ct\l/size.h" alt="" coords="811,201,945,242"/>
+<area shape="rect" id="node38" href="$dd/d83/code__point_8h.html" title="Code point type (32 bits, unsigned) " alt="" coords="1144,291,1291,333"/>
+</map>

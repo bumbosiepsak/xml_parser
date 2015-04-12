@@ -1,0 +1,46 @@
+<map id="includes/middleware/xml/xml_parser.h" name="includes/middleware/xml/xml_parser.h">
+<area shape="rect" id="node3" href="$dd/dc6/xml__encodings_8h.html" title="Default outer encodings list (ones that are recognized by parser) " alt="" coords="1431,187,1573,229"/>
+<area shape="rect" id="node58" href="$d1/d0c/xml__error__printer__silent_8h.html" title="Silent error printer, does no printing. " alt="" coords="2309,187,2456,229"/>
+<area shape="rect" id="node60" href="$de/d8a/xml__parser__basic_8h.html" title="middleware/xml/xml\l_parser_basic.h" alt="" coords="2494,97,2636,138"/>
+<area shape="rect" id="node127" href="$d4/d77/xml__parser__if_8h.html" title="XML parser interface. Provides adapter to any parser implementation. " alt="" coords="2683,97,2825,138"/>
+<area shape="rect" id="node5" href="$d4/d72/xml_2fwd_2ct_2vector_8h.html" title="middleware/xml/fwd\l/ct/vector.h" alt="" coords="1115,278,1257,319"/>
+<area shape="rect" id="node35" href="$df/d41/encoding__specific__ascii_8h.html" title="Core encoder/decoder for ASCII encoding. " alt="" coords="1313,278,1492,319"/>
+<area shape="rect" id="node53" href="$d3/d6d/encoding__specific__utf8_8h.html" title="Core encoder/decoder for UTF&#45;8 encoding. " alt="" coords="1516,278,1687,319"/>
+<area shape="rect" id="node7" href="$d3/dc1/ct_8h.html" title="Namespace &quot;::middleware::xml::fwd::ct&quot;. " alt="" coords="2078,467,2244,493"/>
+<area shape="rect" id="node9" href="$d1/dc8/utils_2ct_2vector_8h.html" title="middleware/utils/ct\l/vector.h" alt="" coords="745,369,879,410"/>
+<area shape="rect" id="node11" href="$dc/d83/at_8h.html" title="middleware/utils/ct/at.h" alt="" coords="733,467,891,493"/>
+<area shape="rect" id="node13" href="$dd/d6f/vector__at__impl_8h.html" title="middleware/utils/ct\l/vector_at_impl.h" alt="" coords="915,459,1049,501"/>
+<area shape="rect" id="node15" href="$d8/d8a/utils_2ct_2begin_8h.html" title="middleware/utils/ct\l/begin.h" alt="" coords="1550,459,1684,501"/>
+<area shape="rect" id="node17" href="$db/dc5/utils_2ct_2deref_8h.html" title="middleware/utils/ct\l/deref.h" alt="" coords="1761,459,1895,501"/>
+<area shape="rect" id="node19" href="$d8/d77/end_8h.html" title="middleware/utils/ct\l/end.h" alt="" coords="1074,459,1208,501"/>
+<area shape="rect" id="node21" href="$db/d43/next_8h.html" title="middleware/utils/ct\l/next.h" alt="" coords="5,459,139,501"/>
+<area shape="rect" id="node23" href="$d9/d0c/push__back_8h.html" title="middleware/utils/ct\l/push_back.h" alt="" coords="163,459,297,501"/>
+<area shape="rect" id="node25" href="$d2/d2a/utils_2ct_2size_8h.html" title="middleware/utils/ct\l/size.h" alt="" coords="1919,459,2053,501"/>
+<area shape="rect" id="node27" href="$db/d9a/vector__size__impl_8h.html" title="middleware/utils/ct\l/vector_size_impl.h" alt="" coords="323,459,457,501"/>
+<area shape="rect" id="node29" href="$d3/d90/void_8h.html" title="middleware/utils/ct\l/void.h" alt="" coords="375,550,509,591"/>
+<area shape="rect" id="node32" href="$d8/de3/vector__push__back__impl_8h.html" title="middleware/utils/ct\l/vector_push_back_impl.h" alt="" coords="534,459,708,501"/>
+<area shape="rect" id="node37" href="$d7/dd0/xml_2fwd_2ct_2static__assert_8h.html" title="middleware/xml/fwd\l/ct/static_assert.h" alt="" coords="1225,369,1367,410"/>
+<area shape="rect" id="node41" href="$db/dbb/xml_2fwd_2ct_2is__same_8h.html" title="middleware/xml/fwd\l/ct/is_same.h" alt="" coords="1391,369,1533,410"/>
+<area shape="rect" id="node46" href="$db/d49/encoding__specific_8h.html" title="Base template for core encoders/decoders. Needs specialisation for a particular encoding. " alt="" coords="1559,369,1705,410"/>
+<area shape="rect" id="node39" href="$d7/d12/utils_2ct_2static__assert_8h.html" title="middleware/utils/ct\l/static_assert.h" alt="" coords="1233,459,1367,501"/>
+<area shape="rect" id="node44" href="$d2/d8e/utils_2ct_2is__same_8h.html" title="middleware/utils/ct\l/is_same.h" alt="" coords="1391,459,1525,501"/>
+<area shape="rect" id="node48" href="$dd/d83/code__point_8h.html" title="Code point type (32 bits, unsigned) " alt="" coords="2903,550,3049,591"/>
+<area shape="rect" id="node50" href="$d2/dc7/xml__decl_8h.html" title="XML declaration (first four octets) used to auto&#45;detect the encoding. " alt="" coords="2805,459,2952,501"/>
+<area shape="rect" id="node62" href="$d5/d02/xml__node__type_8h.html" title="Augumented enum holding the node&#39;s type. " alt="" coords="3034,278,3176,319"/>
+<area shape="rect" id="node65" href="$d1/ddf/xml__decoder__selector_8h.html" title="Decoder selector &#45; chooses the XML decoder based on first bytes of data or encoding name given in XML..." alt="" coords="2449,278,2620,319"/>
+<area shape="rect" id="node96" href="$d5/d81/xml__context_8h.html" title="Local storage for XML parser. " alt="" coords="2481,187,2628,229"/>
+<area shape="rect" id="node116" href="$d4/d64/impl_2xml__parser__basic_8h.html" title="middleware/xml/impl\l/xml_parser_basic.h" alt="" coords="3127,187,3273,229"/>
+<area shape="rect" id="node73" href="$da/d2c/xml_2fwd_2ct_2begin_8h.html" title="middleware/xml/fwd\l/ct/begin.h" alt="" coords="1730,369,1872,410"/>
+<area shape="rect" id="node77" href="$de/d5c/xml_2fwd_2ct_2deref_8h.html" title="middleware/xml/fwd\l/ct/deref.h" alt="" coords="1897,369,2039,410"/>
+<area shape="rect" id="node81" href="$d1/d5d/xml_2fwd_2ct_2for__each_8h.html" title="middleware/xml/fwd\l/ct/for_each.h" alt="" coords="2282,369,2424,410"/>
+<area shape="rect" id="node84" href="$db/db9/xml_2fwd_2ct_2size_8h.html" title="middleware/xml/fwd\l/ct/size.h" alt="" coords="2063,369,2205,410"/>
+<area shape="rect" id="node89" href="$de/ded/xml__decoder_8h.html" title="Applies a decoder to a stream and creates a decoded stream. " alt="" coords="2500,369,2647,410"/>
+<area shape="rect" id="node91" href="$d8/dd8/decode__function_8h.html" title="Trait metafunction that creates a decoder function type for a given XML stream type. " alt="" coords="2500,459,2647,501"/>
+<area shape="rect" id="node100" href="$d3/d23/xml__node__encoding_8h.html" title="Trait metafunction for retrieving encoding of a given node type. " alt="" coords="2282,278,2424,319"/>
+<area shape="rect" id="node102" href="$d8/d5f/xml__parser__status_8h.html" title="Augumented enum holding the XML parsing status. " alt="" coords="2695,278,2837,319"/>
+<area shape="rect" id="node106" href="$d2/de5/xml__buffer__raw__utf_8h.html" title="Type for holding raw UTF code points (for exchange between parser and processor). ..." alt="" coords="3001,369,3148,410"/>
+<area shape="rect" id="node110" href="$d6/d80/xml__encoder_8h.html" title="Applies an encoder to input code point and feeds the stream with encoded data. " alt="" coords="1885,278,2032,319"/>
+<area shape="rect" id="node113" href="$d6/d64/xml__error__detail_8h.html" title="Augumented enum holding details of parsing&#45;error. " alt="" coords="2863,278,3009,319"/>
+<area shape="rect" id="node120" href="$dd/ded/xml__specific_8h.html" title="Provides an XML&#45;specific information about a given code point. " alt="" coords="3467,278,3613,319"/>
+<area shape="rect" id="node124" href="$d0/d9c/xml__instruction__processor_8h.html" title="Processes XML instructions, returning OK/NOK status. " alt="" coords="3201,278,3391,319"/>
+</map>

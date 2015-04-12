@@ -1,0 +1,8 @@
+<map id="includes/middleware/xml/xml_parser_status.h" name="includes/middleware/xml/xml_parser_status.h">
+<area shape="rect" id="node3" href="$d5/d81/xml__context_8h.html" title="Local storage for XML parser. " alt="" coords="24,97,183,138"/>
+<area shape="rect" id="node11" href="$d4/d77/xml__parser__if_8h.html" title="XML parser interface. Provides adapter to any parser implementation. " alt="" coords="196,187,343,229"/>
+<area shape="rect" id="node15" href="$d9/d62/xml__parser__status_8cpp.html" title="sources/middleware\l/xml/xml_parser_status.cpp" alt="" coords="291,97,473,138"/>
+<area shape="rect" id="node5" href="$de/d8a/xml__parser__basic_8h.html" title="includes/middleware\l/xml/xml_parser_basic.h" alt="" coords="5,187,171,229"/>
+<area shape="rect" id="node7" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="17,278,164,319"/>
+<area shape="rect" id="node9" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="189,278,343,319"/>
+</map>

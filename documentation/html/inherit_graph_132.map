@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; T \&gt;" alt="" coords="121,5,255,46"/>
+<area shape="rect" id="node5" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; F \&gt;" alt="" coords="121,70,255,111"/>
+<area shape="rect" id="node9" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; F\&lt; A0 \&gt; \&gt;" alt="" coords="101,135,275,177"/>
+<area shape="rect" id="node13" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; F\&lt; A0,\l A1 \&gt; \&gt;" alt="" coords="111,200,265,256"/>
+<area shape="rect" id="node17" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; F\&lt; A0,\l A1, A2 \&gt; \&gt;" alt="" coords="111,280,265,336"/>
+<area shape="rect" id="node21" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; F\&lt; A0,\l A1, A2, A3 \&gt; \&gt;" alt="" coords="111,360,265,416"/>
+<area shape="rect" id="node25" href="$de/d83/structmiddleware_1_1utils_1_1ct_1_1type__wrap.html" title="middleware::utils::\lct::type_wrap\&lt; F\&lt; A0,\l A1, A2, A3, A4 \&gt; \&gt;" alt="" coords="111,440,265,496"/>
+<area shape="rect" id="node7" href="$dc/db7/structmiddleware_1_1utils_1_1ct_1_1quote0_1_1apply.html" title="middleware::utils::\lct::quote0\&lt; F \&gt;::apply" alt="" coords="343,70,497,111"/>
+<area shape="rect" id="node11" href="$da/dec/structmiddleware_1_1utils_1_1ct_1_1quote1_1_1apply.html" title="middleware::utils::\lct::quote1\&lt; F \&gt;::apply\&lt; A0 \&gt;" alt="" coords="323,135,517,177"/>
+<area shape="rect" id="node15" href="$d3/d68/structmiddleware_1_1utils_1_1ct_1_1quote2_1_1apply.html" title="middleware::utils::\lct::quote2\&lt; F \&gt;::apply\l\&lt; A0, A1 \&gt;" alt="" coords="343,200,497,256"/>
+<area shape="rect" id="node19" href="$d0/deb/structmiddleware_1_1utils_1_1ct_1_1quote3_1_1apply.html" title="middleware::utils::\lct::quote3\&lt; F \&gt;::apply\l\&lt; A0, A1, A2 \&gt;" alt="" coords="343,280,497,336"/>
+<area shape="rect" id="node23" href="$df/dac/structmiddleware_1_1utils_1_1ct_1_1quote4_1_1apply.html" title="middleware::utils::\lct::quote4\&lt; F \&gt;::apply\l\&lt; A0, A1, A2, A3 \&gt;" alt="" coords="343,360,497,416"/>
+<area shape="rect" id="node27" href="$d6/d2e/structmiddleware_1_1utils_1_1ct_1_1quote5_1_1apply.html" title="middleware::utils::\lct::quote5\&lt; F \&gt;::apply\l\&lt; A0, A1, A2, A3, A4 \&gt;" alt="" coords="341,440,499,496"/>
+</map>

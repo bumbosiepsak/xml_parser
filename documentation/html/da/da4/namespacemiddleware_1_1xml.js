@@ -1,0 +1,25 @@
+var namespacemiddleware_1_1xml =
+[
+    [ "fwd", "d0/d39/namespacemiddleware_1_1xml_1_1fwd.html", null ],
+    [ "impl", "d6/d1a/namespacemiddleware_1_1xml_1_1impl.html", "d6/d1a/namespacemiddleware_1_1xml_1_1impl" ],
+    [ "ascii", "da/d4c/structmiddleware_1_1xml_1_1ascii.html", "da/d4c/structmiddleware_1_1xml_1_1ascii" ],
+    [ "utf8", "d0/d20/structmiddleware_1_1xml_1_1utf8.html", "d0/d20/structmiddleware_1_1xml_1_1utf8" ],
+    [ "unspecified_xml_encoding", "d8/db0/classmiddleware_1_1xml_1_1unspecified__xml__encoding.html", null ],
+    [ "xml_error_printer_silent", "da/d1e/classmiddleware_1_1xml_1_1xml__error__printer__silent.html", "da/d1e/classmiddleware_1_1xml_1_1xml__error__printer__silent" ],
+    [ "xml_error_printer_std", "d9/d43/classmiddleware_1_1xml_1_1xml__error__printer__std.html", "d9/d43/classmiddleware_1_1xml_1_1xml__error__printer__std" ],
+    [ "xml_node_basic", "d8/d6a/classmiddleware_1_1xml_1_1xml__node__basic.html", "d8/d6a/classmiddleware_1_1xml_1_1xml__node__basic" ],
+    [ "xml_node_children_type", "da/d33/structmiddleware_1_1xml_1_1xml__node__children__type.html", "da/d33/structmiddleware_1_1xml_1_1xml__node__children__type" ],
+    [ "xml_node_encoding", "dc/d74/structmiddleware_1_1xml_1_1xml__node__encoding.html", "dc/d74/structmiddleware_1_1xml_1_1xml__node__encoding" ],
+    [ "xml_node_string_type", "d8/d72/structmiddleware_1_1xml_1_1xml__node__string__type.html", "d8/d72/structmiddleware_1_1xml_1_1xml__node__string__type" ],
+    [ "xml_node_type", "d5/db4/structmiddleware_1_1xml_1_1xml__node__type.html", "d5/db4/structmiddleware_1_1xml_1_1xml__node__type" ],
+    [ "is_node_name_same", "df/df4/structmiddleware_1_1xml_1_1is__node__name__same.html", "df/df4/structmiddleware_1_1xml_1_1is__node__name__same" ],
+    [ "is_node_name_same_as", "d3/de7/structmiddleware_1_1xml_1_1is__node__name__same__as.html", "d3/de7/structmiddleware_1_1xml_1_1is__node__name__same__as" ],
+    [ "is_node_name_substr_of", "d5/d01/structmiddleware_1_1xml_1_1is__node__name__substr__of.html", "d5/d01/structmiddleware_1_1xml_1_1is__node__name__substr__of" ],
+    [ "is_node_name_less", "d9/d28/structmiddleware_1_1xml_1_1is__node__name__less.html", "d9/d28/structmiddleware_1_1xml_1_1is__node__name__less" ],
+    [ "is_node_value_less", "d3/d7b/structmiddleware_1_1xml_1_1is__node__value__less.html", "d3/d7b/structmiddleware_1_1xml_1_1is__node__value__less" ],
+    [ "xml_parser_basic", "df/d82/classmiddleware_1_1xml_1_1xml__parser__basic.html", "df/d82/classmiddleware_1_1xml_1_1xml__parser__basic" ],
+    [ "xml_parser_if", "db/dca/classmiddleware_1_1xml_1_1xml__parser__if.html", "db/dca/classmiddleware_1_1xml_1_1xml__parser__if" ],
+    [ "xml_parser_status", "df/dba/structmiddleware_1_1xml_1_1xml__parser__status.html", "df/dba/structmiddleware_1_1xml_1_1xml__parser__status" ],
+    [ "xml_stream_on_bytes", "d8/dfb/classmiddleware_1_1xml_1_1xml__stream__on__bytes.html", "d8/dfb/classmiddleware_1_1xml_1_1xml__stream__on__bytes" ],
+    [ "xml_stream_on_string", "d4/d1a/classmiddleware_1_1xml_1_1xml__stream__on__string.html", "d4/d1a/classmiddleware_1_1xml_1_1xml__stream__on__string" ]
+];

@@ -1,0 +1,28 @@
+var glo__def_8h =
+[
+    [ "sc100_u64", "de/d63/structsc100__u64.html", "de/d63/structsc100__u64" ],
+    [ "GLO_FALSE", "da/d17/glo__def_8h.html#adea1e37ef289d1237b2872620cb5dc41", null ],
+    [ "GLO_NULL", "da/d17/glo__def_8h.html#a898ebb6e4cb52234ab4eaf7626b39814", null ],
+    [ "GLO_TRUE", "da/d17/glo__def_8h.html#a805cef36d22ba66c329ffa0b912d2bcf", null ],
+    [ "MAX_NUM_OF_FAULT_INFO", "da/d17/glo__def_8h.html#af8f28f421f7b28ebbfa194332570c8a6", null ],
+    [ "GLO_BOOLEAN", "da/d17/glo__def_8h.html#a56673167f33d94d678a96f6d429d3859", null ],
+    [ "i16", "da/d17/glo__def_8h.html#ac12585a6def54773148d7fb2c72a59c5", null ],
+    [ "i32", "da/d17/glo__def_8h.html#a9e3ad5f8e752f01d926ce122d5a5285e", null ],
+    [ "i8", "da/d17/glo__def_8h.html#a2d0b2d48b0784ffa5f75c39f46562729", null ],
+    [ "MESSAGEID", "da/d17/glo__def_8h.html#a507fcb21b797a30bf72ee31ab0da9e04", null ],
+    [ "pi16", "da/d17/glo__def_8h.html#ad6f7d40cc79c672038669802beb74c49", null ],
+    [ "pi32", "da/d17/glo__def_8h.html#af86e769eca1d0bb163c889bdfaa6e367", null ],
+    [ "pi8", "da/d17/glo__def_8h.html#a53fb590c26f5750019faa96332e0927a", null ],
+    [ "pu16", "da/d17/glo__def_8h.html#afd05617599915e7240c3a41fe1dc7f2e", null ],
+    [ "pu32", "da/d17/glo__def_8h.html#a467f194fd8397edb2132554d3b96579e", null ],
+    [ "pu8", "da/d17/glo__def_8h.html#a906678f860566b18078be2ccc35a726b", null ],
+    [ "pu8h", "da/d17/glo__def_8h.html#a46b532d502e3a379f58fa422efd8cc86", null ],
+    [ "r128", "da/d17/glo__def_8h.html#a1eaef818051a1e950e011b6a2ac38505", null ],
+    [ "r32", "da/d17/glo__def_8h.html#aafa04bc3cb166e826b75a23f4add4b59", null ],
+    [ "r64", "da/d17/glo__def_8h.html#af3fb0780dd5bc8ff8740028f077610e7", null ],
+    [ "TBoolean", "da/d17/glo__def_8h.html#a77da26694ce84026b87e4feabeaa104d", null ],
+    [ "TMsgId", "da/d17/glo__def_8h.html#a9232479e36fce893b289b656a72aa99c", null ],
+    [ "u16", "da/d17/glo__def_8h.html#a9e6c91d77e24643b888dbd1a1a590054", null ],
+    [ "u32", "da/d17/glo__def_8h.html#a10e94b422ef0c20dcdec20d31a1f5049", null ],
+    [ "u8", "da/d17/glo__def_8h.html#aed742c436da53c1080638ce6ef7d13de", null ]
+];

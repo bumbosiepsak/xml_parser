@@ -1,0 +1,13 @@
+<map id="includes/middleware/utils/ct/is_same.h" name="includes/middleware/utils/ct/is_same.h">
+<area shape="rect" id="node3" href="$db/dbb/xml_2fwd_2ct_2is__same_8h.html" title="includes/middleware\l/xml/fwd/ct/is_same.h" alt="" coords="153,97,303,138"/>
+<area shape="rect" id="node5" href="$df/d41/encoding__specific__ascii_8h.html" title="Core encoder/decoder for ASCII encoding. " alt="" coords="135,187,321,243"/>
+<area shape="rect" id="node9" href="$d7/d5a/xml__transcoder_8h.html" title="Offers transcoding of strings encoded with different encodings. " alt="" coords="7,395,188,437"/>
+<area shape="rect" id="node21" href="$d3/d6d/encoding__specific__utf8_8h.html" title="Core encoder/decoder for UTF&#45;8 encoding. " alt="" coords="345,187,532,243"/>
+<area shape="rect" id="node7" href="$dd/dc6/xml__encodings_8h.html" title="Default outer encodings list (ones that are recognized by parser) " alt="" coords="345,298,497,339"/>
+<area shape="rect" id="node19" href="$dd/dfa/encoding__specific__ascii_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_ascii.cpp" alt="" coords="135,291,321,347"/>
+<area shape="rect" id="node13" href="$dd/de7/xml__node_8h.html" title="Default node type (typedef increasing user&#45;friendliness). " alt="" coords="561,395,708,437"/>
+<area shape="rect" id="node15" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="212,395,359,437"/>
+<area shape="rect" id="node17" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="383,395,536,437"/>
+<area shape="rect" id="node11" href="$d8/d12/xml__error__printer__std_8h.html" title="XML parsing error printer for STD environment. " alt="" coords="5,486,189,527"/>
+<area shape="rect" id="node24" href="$dd/d77/encoding__specific__utf8_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_utf8.cpp" alt="" coords="521,291,708,347"/>
+</map>

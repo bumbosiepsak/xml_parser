@@ -1,0 +1,4 @@
+<map id="middleware::xml::impl::xml_buffer&lt; ValueType &gt;" name="middleware::xml::impl::xml_buffer&lt; ValueType &gt;">
+<area shape="rect" id="node3" href="$df/dec/classmiddleware_1_1xml_1_1impl_1_1xml__buffer.html" title="{middleware::xml::impl\l::xml_buffer\&lt; typename\l Encoding::type \&gt;\n|&#45; buffer\l|+ append_to()\l+ assign_to()\l+ compare()\l+ put()\l+ clear()\l+ empty()\l}" alt="" coords="5,249,165,429"/>
+<area shape="rect" id="node5" href="$df/dec/classmiddleware_1_1xml_1_1impl_1_1xml__buffer.html" title="{middleware::xml::impl\l::xml_buffer\&lt; typename\l out_encoding::type \&gt;\n|&#45; buffer\l|+ append_to()\l+ assign_to()\l+ compare()\l+ put()\l+ clear()\l+ empty()\l}" alt="" coords="190,249,351,429"/>
+</map>

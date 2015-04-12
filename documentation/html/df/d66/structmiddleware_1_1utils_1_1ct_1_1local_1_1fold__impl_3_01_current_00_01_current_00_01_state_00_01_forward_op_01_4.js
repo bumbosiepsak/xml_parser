@@ -1,0 +1,4 @@
+var structmiddleware_1_1utils_1_1ct_1_1local_1_1fold__impl_3_01_current_00_01_current_00_01_state_00_01_forward_op_01_4 =
+[
+    [ "type", "df/d66/structmiddleware_1_1utils_1_1ct_1_1local_1_1fold__impl_3_01_current_00_01_current_00_01_state_00_01_forward_op_01_4.html#aec9f78b1e839ea28bf499a9f1aa60fcc", null ]
+];

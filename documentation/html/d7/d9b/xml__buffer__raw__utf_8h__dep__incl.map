@@ -1,0 +1,8 @@
+<map id="includes/middleware/xml/impl/xml_buffer_raw_utf.h" name="includes/middleware/xml/impl/xml_buffer_raw_utf.h">
+<area shape="rect" id="node3" href="$d5/d81/xml__context_8h.html" title="Local storage for XML parser. " alt="" coords="5,221,164,262"/>
+<area shape="rect" id="node11" href="$d0/d9c/xml__instruction__processor_8h.html" title="Processes XML instructions, returning OK/NOK status. " alt="" coords="165,109,331,165"/>
+<area shape="rect" id="node5" href="$de/d8a/xml__parser__basic_8h.html" title="includes/middleware\l/xml/xml_parser_basic.h" alt="" coords="90,318,256,359"/>
+<area shape="rect" id="node7" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="13,409,160,450"/>
+<area shape="rect" id="node9" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="184,409,337,450"/>
+<area shape="rect" id="node13" href="$d4/d64/impl_2xml__parser__basic_8h.html" title="includes/middleware\l/xml/impl/xml_parser\l_basic.h" alt="" coords="189,213,336,269"/>
+</map>

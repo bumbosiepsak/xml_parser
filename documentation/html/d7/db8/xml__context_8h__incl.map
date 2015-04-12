@@ -1,0 +1,11 @@
+<map id="includes/middleware/xml/impl/xml_context.h" name="includes/middleware/xml/impl/xml_context.h">
+<area shape="rect" id="node5" href="$d3/d23/xml__node__encoding_8h.html" title="Trait metafunction for retrieving encoding of a given node type. " alt="" coords="398,97,540,138"/>
+<area shape="rect" id="node7" href="$d8/d5f/xml__parser__status_8h.html" title="Augumented enum holding the XML parsing status. " alt="" coords="565,97,707,138"/>
+<area shape="rect" id="node11" href="$d2/de5/xml__buffer__raw__utf_8h.html" title="Type for holding raw UTF code points (for exchange between parser and processor). ..." alt="" coords="5,187,152,229"/>
+<area shape="rect" id="node16" href="$d6/d80/xml__encoder_8h.html" title="Applies an encoder to input code point and feeds the stream with encoded data. " alt="" coords="227,97,373,138"/>
+<area shape="rect" id="node29" href="$d6/d64/xml__error__detail_8h.html" title="Augumented enum holding details of parsing&#45;error. " alt="" coords="732,97,879,138"/>
+<area shape="rect" id="node14" href="$dd/d83/code__point_8h.html" title="Code point type (32 bits, unsigned) " alt="" coords="353,369,500,410"/>
+<area shape="rect" id="node18" href="$db/d49/encoding__specific_8h.html" title="Base template for core encoders/decoders. Needs specialisation for a particular encoding. " alt="" coords="397,187,544,229"/>
+<area shape="rect" id="node24" href="$d7/d11/xml__buffer_8h.html" title="String buffer with stream&lt;&#45;&gt;container adaptor properties and graceful memory management. " alt="" coords="227,187,373,229"/>
+<area shape="rect" id="node21" href="$d2/dc7/xml__decl_8h.html" title="XML declaration (first four octets) used to auto&#45;detect the encoding. " alt="" coords="353,278,500,319"/>
+</map>

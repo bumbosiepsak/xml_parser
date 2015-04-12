@@ -1,0 +1,10 @@
+<map id="middleware::xml::impl::xml_context&lt; Decoder, XmlNode &gt;" name="middleware::xml::impl::xml_context&lt; Decoder, XmlNode &gt;">
+<area shape="rect" id="node2" href="$d2/d49/structmiddleware_1_1xml_1_1impl_1_1xml__error__detail.html" title="{middleware::xml::impl\l::xml_error_detail\n|+ value\l|+ xml_error_detail()\l+ xml_error_detail()\l+ operator==()\l+ what()\l}" alt="" coords="151,1296,304,1432"/>
+<area shape="rect" id="node4" href="$da/d31/classmiddleware_1_1xml_1_1impl_1_1xml__encoder.html" title="{middleware::xml::impl\l::xml_encoder\&lt; out_encoding \&gt;\n||+ put()\l+ get_buffer()\l}" alt="" coords="329,1311,543,1417"/>
+<area shape="rect" id="node6" href="$df/dec/classmiddleware_1_1xml_1_1impl_1_1xml__buffer.html" title="{middleware::xml::impl\l::xml_buffer\&lt; typename\l out_encoding::type \&gt;\n||+ append_to()\l+ assign_to()\l+ compare()\l+ put()\l+ clear()\l+ empty()\l}" alt="" coords="42,811,203,991"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="357,147,477,224"/>
+<area shape="rect" id="node14" href="$df/dec/classmiddleware_1_1xml_1_1impl_1_1xml__buffer.html" title="{middleware::xml::impl\l::xml_buffer\&lt; ValueType \&gt;\n||+ append_to()\l+ assign_to()\l+ compare()\l+ put()\l+ clear()\l+ empty()\l}" alt="" coords="200,520,381,685"/>
+<area shape="rect" id="node21" href="$df/dec/classmiddleware_1_1xml_1_1impl_1_1xml__buffer.html" title="{middleware::xml::impl\l::xml_buffer\&lt; typename\l Encoding::type \&gt;\n||+ append_to()\l+ assign_to()\l+ compare()\l+ put()\l+ clear()\l+ empty()\l}" alt="" coords="355,811,516,991"/>
+<area shape="rect" id="node19" href="$da/d31/classmiddleware_1_1xml_1_1impl_1_1xml__encoder.html" title="{middleware::xml::impl\l::xml_encoder\&lt; Encoding \&gt;\n||+ put()\l+ get_buffer()\l}" alt="" coords="342,1117,529,1224"/>
+<area shape="rect" id="node30" href="$df/dba/structmiddleware_1_1xml_1_1xml__parser__status.html" title="{middleware::xml::xml\l_parser_status\n|+ value\l|+ xml_parser_status()\l+ xml_parser_status()\l+ operator==()\l+ is_ok()\l+ to_string()\l}" alt="" coords="727,1289,877,1439"/>
+</map>

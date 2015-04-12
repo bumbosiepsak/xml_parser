@@ -1,0 +1,10 @@
+<map id="includes/middleware/xml/xml_node_type.h" name="includes/middleware/xml/xml_node_type.h">
+<area shape="rect" id="node3" href="$d4/d64/impl_2xml__parser__basic_8h.html" title="includes/middleware\l/xml/impl/xml_parser\l_basic.h" alt="" coords="167,96,313,152"/>
+<area shape="rect" id="node5" href="$de/d8a/xml__parser__basic_8h.html" title="includes/middleware\l/xml/xml_parser_basic.h" alt="" coords="163,201,329,242"/>
+<area shape="rect" id="node11" href="$dd/dfb/xml__node__basic_8h.html" title="Basic XML node type. Holds elemental XML data in a tree structure. " alt="" coords="389,103,547,145"/>
+<area shape="rect" id="node7" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="5,291,152,333"/>
+<area shape="rect" id="node9" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="176,291,329,333"/>
+<area shape="rect" id="node13" href="$d7/d5a/xml__transcoder_8h.html" title="Offers transcoding of strings encoded with different encodings. " alt="" coords="363,201,544,242"/>
+<area shape="rect" id="node17" href="$dd/de7/xml__node_8h.html" title="Default node type (typedef increasing user&#45;friendliness). " alt="" coords="568,201,715,242"/>
+<area shape="rect" id="node15" href="$d8/d12/xml__error__printer__std_8h.html" title="XML parsing error printer for STD environment. " alt="" coords="361,291,545,333"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="includes/middleware/xml/impl/xml_encoder.h" name="includes/middleware/xml/impl/xml_encoder.h">
+<area shape="rect" id="node3" href="$db/d49/encoding__specific_8h.html" title="Base template for core encoders/decoders. Needs specialisation for a particular encoding. " alt="" coords="51,97,197,138"/>
+<area shape="rect" id="node10" href="$d7/d11/xml__buffer_8h.html" title="String buffer with stream&lt;&#45;&gt;container adaptor properties and graceful memory management. " alt="" coords="221,97,368,138"/>
+<area shape="rect" id="node5" href="$dd/d83/code__point_8h.html" title="Code point type (32 bits, unsigned) " alt="" coords="5,278,152,319"/>
+<area shape="rect" id="node7" href="$d2/dc7/xml__decl_8h.html" title="XML declaration (first four octets) used to auto&#45;detect the encoding. " alt="" coords="61,187,208,229"/>
+</map>

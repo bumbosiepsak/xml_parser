@@ -1,0 +1,5 @@
+<map id="middleware::utils::ct::is_enum&lt; T &gt;" name="middleware::utils::ct::is_enum&lt; T &gt;">
+<area shape="rect" id="node2" href="$d4/d34/structmiddleware_1_1utils_1_1ct_1_1bool__.html" title="{middleware::utils::\lct::bool_\&lt; ct::if_\&lt;\l ct::ice_or\&lt; ct::is_class\l\&lt; T \&gt;::value,ct::is_union\l\&lt; T \&gt;::value,ct::is_reference\l\&lt; T \&gt;::value \&gt;,ct::false_,local\l::is_convertible_to_int_but_not\l_from_int\&lt; T \&gt; \&gt;::type::value \&gt;\n||}" alt="" coords="5,449,211,629"/>
+<area shape="rect" id="node4" href="$d8/df1/structmiddleware_1_1utils_1_1ct_1_1integral__c.html" title="{middleware::utils::\lct::integral_c\&lt; bool, C \&gt;\n|+ value\l|+ operator bool()\l}" alt="" coords="25,305,191,397"/>
+<area shape="rect" id="node6" href="$d8/df1/structmiddleware_1_1utils_1_1ct_1_1integral__c.html" title="{middleware::utils::\lct::integral_c\&lt; T, N \&gt;\n||+ operator T()\l}" alt="" coords="33,147,181,239"/>
+</map>

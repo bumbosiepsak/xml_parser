@@ -1,0 +1,5 @@
+<map id="includes/middleware/xml/xml_node_basic.h" name="includes/middleware/xml/xml_node_basic.h">
+<area shape="rect" id="node7" href="$d5/d02/xml__node__type_8h.html" title="Augumented enum holding the node&#39;s type. " alt="" coords="103,97,245,138"/>
+<area shape="rect" id="node9" href="$dc/dc8/xml__node__tree_8h.html" title="Composite (tree) part of XML node. " alt="" coords="270,97,417,138"/>
+<area shape="rect" id="node14" href="$d5/d1f/xml__node__tree__statics_8h.html" title="Static part of xml_node_tree, separated here for greater compiler compatibility. " alt="" coords="328,187,498,229"/>
+</map>

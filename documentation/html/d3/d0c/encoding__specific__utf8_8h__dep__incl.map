@@ -1,0 +1,9 @@
+<map id="includes/middleware/xml/impl/encoding_specific_utf8.h" name="includes/middleware/xml/impl/encoding_specific_utf8.h">
+<area shape="rect" id="node3" href="$dd/dc6/xml__encodings_8h.html" title="Default outer encodings list (ones that are recognized by parser) " alt="" coords="295,117,447,158"/>
+<area shape="rect" id="node15" href="$dd/d77/encoding__specific__utf8_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_utf8.cpp" alt="" coords="471,109,657,165"/>
+<area shape="rect" id="node5" href="$d7/d5a/xml__transcoder_8h.html" title="Offers transcoding of strings encoded with different encodings. " alt="" coords="7,214,188,255"/>
+<area shape="rect" id="node9" href="$dd/de7/xml__node_8h.html" title="Default node type (typedef increasing user&#45;friendliness). " alt="" coords="212,214,359,255"/>
+<area shape="rect" id="node11" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="383,214,529,255"/>
+<area shape="rect" id="node13" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="553,214,707,255"/>
+<area shape="rect" id="node7" href="$d8/d12/xml__error__printer__std_8h.html" title="XML parsing error printer for STD environment. " alt="" coords="5,305,189,346"/>
+</map>

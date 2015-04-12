@@ -1,0 +1,18 @@
+<map id="includes/middleware/utils/ct/is_reference.h" name="includes/middleware/utils/ct/is_reference.h">
+<area shape="rect" id="node3" href="$de/dad/add__reference_8h.html" title="includes/middleware\l/utils/ct/add_reference.h" alt="" coords="5,97,169,138"/>
+<area shape="rect" id="node7" href="$dc/d30/is__enum_8h.html" title="includes/middleware\l/utils/ct/is_enum.h" alt="" coords="195,97,341,138"/>
+<area shape="rect" id="node11" href="$d2/d8e/utils_2ct_2is__same_8h.html" title="includes/middleware\l/utils/ct/is_same.h" alt="" coords="365,97,512,138"/>
+<area shape="rect" id="node5" href="$d0/d51/is__convertible_8h.html" title="includes/middleware\l/utils/ct/is_convertible.h" alt="" coords="9,187,167,229"/>
+<area shape="rect" id="node9" href="$dd/d50/is__signed_8h.html" title="includes/middleware\l/utils/ct/is_signed.h" alt="" coords="193,187,340,229"/>
+<area shape="rect" id="node13" href="$db/dbb/xml_2fwd_2ct_2is__same_8h.html" title="includes/middleware\l/xml/fwd/ct/is_same.h" alt="" coords="365,187,515,229"/>
+<area shape="rect" id="node15" href="$df/d41/encoding__specific__ascii_8h.html" title="Core encoder/decoder for ASCII encoding. " alt="" coords="347,277,533,333"/>
+<area shape="rect" id="node19" href="$d7/d5a/xml__transcoder_8h.html" title="Offers transcoding of strings encoded with different encodings. " alt="" coords="219,486,400,527"/>
+<area shape="rect" id="node31" href="$d3/d6d/encoding__specific__utf8_8h.html" title="Core encoder/decoder for UTF&#45;8 encoding. " alt="" coords="557,277,744,333"/>
+<area shape="rect" id="node17" href="$dd/dc6/xml__encodings_8h.html" title="Default outer encodings list (ones that are recognized by parser) " alt="" coords="557,389,709,430"/>
+<area shape="rect" id="node29" href="$dd/dfa/encoding__specific__ascii_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_ascii.cpp" alt="" coords="347,381,533,437"/>
+<area shape="rect" id="node23" href="$dd/de7/xml__node_8h.html" title="Default node type (typedef increasing user&#45;friendliness). " alt="" coords="773,486,920,527"/>
+<area shape="rect" id="node25" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="424,486,571,527"/>
+<area shape="rect" id="node27" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="595,486,748,527"/>
+<area shape="rect" id="node21" href="$d8/d12/xml__error__printer__std_8h.html" title="XML parsing error printer for STD environment. " alt="" coords="217,577,401,618"/>
+<area shape="rect" id="node34" href="$dd/d77/encoding__specific__utf8_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_utf8.cpp" alt="" coords="733,381,920,437"/>
+</map>

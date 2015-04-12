@@ -1,0 +1,44 @@
+<map id="includes/middleware/utils/ct/previous.h" name="includes/middleware/utils/ct/previous.h">
+<area shape="rect" id="node3" href="$d8/d77/bool_8h.html" title="includes/middleware\l/utils/ct/bool.h" alt="" coords="964,187,1111,229"/>
+<area shape="rect" id="node97" href="$dd/d65/integral__c_8h.html" title="includes/middleware\l/utils/ct/integral_c.h" alt="" coords="823,97,969,138"/>
+<area shape="rect" id="node5" href="$dd/d90/has__type_8h.html" title="includes/middleware\l/utils/ct/has_type.h" alt="" coords="196,278,343,319"/>
+<area shape="rect" id="node19" href="$de/d4c/ice__and_8h.html" title="includes/middleware\l/utils/ct/ice_and.h" alt="" coords="1924,369,2071,410"/>
+<area shape="rect" id="node47" href="$df/d1b/ice__not_8h.html" title="includes/middleware\l/utils/ct/ice_not.h" alt="" coords="1361,278,1508,319"/>
+<area shape="rect" id="node49" href="$df/dc4/ice__or_8h.html" title="includes/middleware\l/utils/ct/ice_or.h" alt="" coords="748,278,895,319"/>
+<area shape="rect" id="node53" href="$dd/d50/is__signed_8h.html" title="includes/middleware\l/utils/ct/is_signed.h" alt="" coords="833,550,980,591"/>
+<area shape="rect" id="node57" href="$d9/d9c/is__placeholder_8h.html" title="includes/middleware\l/utils/ct/is_placeholder.h" alt="" coords="287,369,451,410"/>
+<area shape="rect" id="node60" href="$d4/dbd/is__reference_8h.html" title="includes/middleware\l/utils/ct/is_reference.h" alt="" coords="970,369,1120,410"/>
+<area shape="rect" id="node64" href="$d0/d51/is__convertible_8h.html" title="includes/middleware\l/utils/ct/is_convertible.h" alt="" coords="1807,550,1965,591"/>
+<area shape="rect" id="node69" href="$d6/d07/is__array_8h.html" title="includes/middleware\l/utils/ct/is_array.h" alt="" coords="1532,278,1679,319"/>
+<area shape="rect" id="node71" href="$d3/daa/is__class_8h.html" title="Equivalent to &#39;true_&#39; for class types. " alt="" coords="476,369,623,410"/>
+<area shape="rect" id="node75" href="$dc/dd3/is__float_8h.html" title="includes/middleware\l/utils/ct/is_float.h" alt="" coords="1191,278,1337,319"/>
+<area shape="rect" id="node80" href="$df/d51/is__integral_8h.html" title="Equivalent to &#39;true_&#39; for integral fundamental types. " alt="" coords="1020,278,1167,319"/>
+<area shape="rect" id="node88" href="$d8/d81/is__union_8h.html" title="includes/middleware\l/utils/ct/is_union.h" alt="" coords="647,369,793,410"/>
+<area shape="rect" id="node91" href="$d0/db4/is__void_8h.html" title="Equivalent to &#39;true_&#39; for &#39;void&#39; type. " alt="" coords="1873,278,2020,319"/>
+<area shape="rect" id="node95" href="$d5/de9/not_8h.html" title="includes/middleware\l/utils/ct/not.h" alt="" coords="1703,278,1849,319"/>
+<area shape="rect" id="node7" href="$d2/d5d/type__wrap_8h.html" title="includes/middleware\l/utils/ct/type_wrap.h" alt="" coords="116,369,263,410"/>
+<area shape="rect" id="node9" href="$d8/d48/quote_8h.html" title="includes/middleware\l/utils/ct/quote.h" alt="" coords="176,459,323,501"/>
+<area shape="rect" id="node11" href="$db/dca/lambda_8h.html" title="includes/middleware\l/utils/ct/lambda.h" alt="" coords="176,550,323,591"/>
+<area shape="rect" id="node13" href="$dd/de1/apply_8h.html" title="includes/middleware\l/utils/ct/apply.h" alt="" coords="176,647,323,689"/>
+<area shape="rect" id="node15" href="$d2/ddd/fold_8h.html" title="includes/middleware\l/utils/ct/fold.h" alt="" coords="176,751,323,793"/>
+<area shape="rect" id="node17" href="$d9/d0f/accumulate_8h.html" title="includes/middleware\l/utils/ct/accumulate.h" alt="" coords="176,849,323,890"/>
+<area shape="rect" id="node21" href="$d2/d8e/utils_2ct_2is__same_8h.html" title="includes/middleware\l/utils/ct/is_same.h" alt="" coords="1423,459,1569,501"/>
+<area shape="rect" id="node23" href="$db/dbb/xml_2fwd_2ct_2is__same_8h.html" title="includes/middleware\l/xml/fwd/ct/is_same.h" alt="" coords="1421,550,1571,591"/>
+<area shape="rect" id="node25" href="$df/d41/encoding__specific__ascii_8h.html" title="Core encoder/decoder for ASCII encoding. " alt="" coords="1403,640,1589,696"/>
+<area shape="rect" id="node29" href="$d7/d5a/xml__transcoder_8h.html" title="Offers transcoding of strings encoded with different encodings. " alt="" coords="1536,849,1717,890"/>
+<area shape="rect" id="node41" href="$d3/d6d/encoding__specific__utf8_8h.html" title="Core encoder/decoder for UTF&#45;8 encoding. " alt="" coords="1192,640,1379,696"/>
+<area shape="rect" id="node27" href="$dd/dc6/xml__encodings_8h.html" title="Default outer encodings list (ones that are recognized by parser) " alt="" coords="1227,751,1379,793"/>
+<area shape="rect" id="node39" href="$dd/dfa/encoding__specific__ascii_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_ascii.cpp" alt="" coords="1403,744,1589,800"/>
+<area shape="rect" id="node33" href="$dd/de7/xml__node_8h.html" title="Default node type (typedef increasing user&#45;friendliness). " alt="" coords="1195,849,1341,890"/>
+<area shape="rect" id="node35" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="1365,849,1512,890"/>
+<area shape="rect" id="node37" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="1016,849,1169,890"/>
+<area shape="rect" id="node31" href="$d8/d12/xml__error__printer__std_8h.html" title="XML parsing error printer for STD environment. " alt="" coords="1534,939,1719,981"/>
+<area shape="rect" id="node44" href="$dd/d77/encoding__specific__utf8_8cpp.html" title="sources/middleware\l/xml/impl/encoding_specific\l_utf8.cpp" alt="" coords="1016,744,1203,800"/>
+<area shape="rect" id="node51" href="$dc/d30/is__enum_8h.html" title="includes/middleware\l/utils/ct/is_enum.h" alt="" coords="697,459,844,501"/>
+<area shape="rect" id="node55" href="$d0/d96/is__fundamental_8h.html" title="Equivalent to &#39;true_&#39; for fundamental types. " alt="" coords="1371,369,1537,410"/>
+<area shape="rect" id="node62" href="$de/dad/add__reference_8h.html" title="includes/middleware\l/utils/ct/add_reference.h" alt="" coords="969,459,1133,501"/>
+<area shape="rect" id="node77" href="$de/d78/is__arithmetic_8h.html" title="includes/middleware\l/utils/ct/is_arithmetic.h" alt="" coords="1197,369,1347,410"/>
+<area shape="rect" id="node100" href="$d3/d7e/int_8h.html" title="includes/middleware\l/utils/ct/int.h" alt="" coords="341,187,488,229"/>
+<area shape="rect" id="node105" href="$d3/d56/sizeof_8h.html" title="includes/middleware\l/utils/ct/sizeof.h" alt="" coords="793,187,940,229"/>
+<area shape="rect" id="node102" href="$da/dc2/bind_8h.html" title="includes/middleware\l/utils/ct/bind.h" alt="" coords="5,459,152,501"/>
+</map>

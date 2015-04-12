@@ -1,0 +1,13 @@
+<map id="includes/middleware/xml/impl/xml_parser_basic.h" name="includes/middleware/xml/impl/xml_parser_basic.h">
+<area shape="rect" id="node3" href="$d5/d02/xml__node__type_8h.html" title="Augumented enum holding the node&#39;s type. " alt="" coords="5,110,147,151"/>
+<area shape="rect" id="node5" href="$dd/d83/code__point_8h.html" title="Code point type (32 bits, unsigned) " alt="" coords="223,291,369,333"/>
+<area shape="rect" id="node7" href="$dd/ded/xml__specific_8h.html" title="Provides an XML&#45;specific information about a given code point. " alt="" coords="223,110,369,151"/>
+<area shape="rect" id="node10" href="$d6/d64/xml__error__detail_8h.html" title="Augumented enum holding details of parsing&#45;error. " alt="" coords="393,110,540,151"/>
+<area shape="rect" id="node14" href="$d0/d9c/xml__instruction__processor_8h.html" title="Processes XML instructions, returning OK/NOK status. " alt="" coords="565,110,755,151"/>
+<area shape="rect" id="node16" href="$d2/d6f/xml_2fwd_2rt_2assoc__vector_8h.html" title="middleware/xml/fwd\l/rt/assoc_vector.h" alt="" coords="589,201,731,242"/>
+<area shape="rect" id="node26" href="$d5/d51/xml_2fwd_2rt_2from__table_8h.html" title="middleware/xml/fwd\l/rt/from_table.h" alt="" coords="755,201,897,242"/>
+<area shape="rect" id="node31" href="$d2/de5/xml__buffer__raw__utf_8h.html" title="Type for holding raw UTF code points (for exchange between parser and processor). ..." alt="" coords="417,201,564,242"/>
+<area shape="rect" id="node18" href="$d6/dc9/rt_8h.html" title="Namespace &quot;::middleware::xml::fwd::rt&quot;. " alt="" coords="722,299,885,325"/>
+<area shape="rect" id="node20" href="$d1/d81/utils_2rt_2assoc__vector_8h.html" title="middleware/utils/rt\l/assoc_vector.h" alt="" coords="567,291,696,333"/>
+<area shape="rect" id="node29" href="$d5/d5d/utils_2rt_2from__table_8h.html" title="middleware/utils/rt\l/from_table.h" alt="" coords="911,291,1040,333"/>
+</map>

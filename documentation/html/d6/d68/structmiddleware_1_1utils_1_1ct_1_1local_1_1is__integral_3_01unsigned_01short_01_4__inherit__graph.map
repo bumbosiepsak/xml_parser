@@ -1,0 +1,5 @@
+<map id="middleware::utils::ct::local::is_integral&lt; unsigned short &gt;" name="middleware::utils::ct::local::is_integral&lt; unsigned short &gt;">
+<area shape="rect" id="node2" href="$d4/d34/structmiddleware_1_1utils_1_1ct_1_1bool__.html" title="{true_\n||}" alt="" coords="63,307,113,384"/>
+<area shape="rect" id="node4" href="$d8/df1/structmiddleware_1_1utils_1_1ct_1_1integral__c.html" title="{middleware::utils::\lct::integral_c\&lt; bool, C \&gt;\n|+ value\l|+ operator bool()\l}" alt="" coords="5,163,171,255"/>
+<area shape="rect" id="node6" href="$d8/df1/structmiddleware_1_1utils_1_1ct_1_1integral__c.html" title="{middleware::utils::\lct::integral_c\&lt; T, N \&gt;\n|+ value\l|+ operator T()\l}" alt="" coords="13,6,161,98"/>
+</map>

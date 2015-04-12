@@ -1,0 +1,7 @@
+<map id="includes/middleware/xml/impl/xml_buffer.h" name="includes/middleware/xml/impl/xml_buffer.h">
+<area shape="rect" id="node3" href="$d6/d80/xml__encoder_8h.html" title="Applies an encoder to input code point and feeds the stream with encoded data. " alt="" coords="82,97,248,138"/>
+<area shape="rect" id="node5" href="$d5/d81/xml__context_8h.html" title="Local storage for XML parser. " alt="" coords="85,187,244,229"/>
+<area shape="rect" id="node7" href="$de/d8a/xml__parser__basic_8h.html" title="includes/middleware\l/xml/xml_parser_basic.h" alt="" coords="82,278,248,319"/>
+<area shape="rect" id="node9" href="$dc/d18/xml__parser_8h.html" title="Default XML parser type (typedef increasing user&#45;friendliness). " alt="" coords="5,369,152,410"/>
+<area shape="rect" id="node11" href="$d1/de9/xml__parser__ccs_8h.html" title="Default XML parser type for CCS environment (typedef increasing user&#45;friendliness). " alt="" coords="176,369,329,410"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="includes/middleware/xml/impl/encoding_specific_utf8.h" name="includes/middleware/xml/impl/encoding_specific_utf8.h">
+<area shape="rect" id="node3" href="$d7/dd0/xml_2fwd_2ct_2static__assert_8h.html" title="middleware/xml/fwd\l/ct/static_assert.h" alt="" coords="91,110,233,151"/>
+<area shape="rect" id="node7" href="$db/dbb/xml_2fwd_2ct_2is__same_8h.html" title="middleware/xml/fwd\l/ct/is_same.h" alt="" coords="262,110,404,151"/>
+<area shape="rect" id="node35" href="$db/d49/encoding__specific_8h.html" title="Base template for core encoders/decoders. Needs specialisation for a particular encoding. " alt="" coords="561,110,708,151"/>
+<area shape="rect" id="node5" href="$d7/d12/utils_2ct_2static__assert_8h.html" title="middleware/utils/ct\l/static_assert.h" alt="" coords="5,201,139,242"/>
+<area shape="rect" id="node9" href="$d3/dc1/ct_8h.html" title="Namespace &quot;::middleware::xml::fwd::ct&quot;. " alt="" coords="163,208,329,235"/>
+<area shape="rect" id="node11" href="$d2/d8e/utils_2ct_2is__same_8h.html" title="middleware/utils/ct\l/is_same.h" alt="" coords="354,201,488,242"/>
+<area shape="rect" id="node13" href="$de/d4c/ice__and_8h.html" title="middleware/utils/ct\l/ice_and.h" alt="" coords="90,382,224,423"/>
+<area shape="rect" id="node25" href="$d4/dbd/is__reference_8h.html" title="middleware/utils/ct\l/is_reference.h" alt="" coords="195,291,329,333"/>
+<area shape="rect" id="node31" href="$d8/df2/static__instance_8h.html" title="middleware/utils/ct\l/static_instance.h" alt="" coords="354,291,488,333"/>
+<area shape="rect" id="node33" href="$d5/d92/yes__no__type_8h.html" title="middleware/utils/ct\l/yes_no_type.h" alt="" coords="513,291,647,333"/>
+<area shape="rect" id="node15" href="$d8/d77/bool_8h.html" title="middleware/utils/ct\l/bool.h" alt="" coords="195,473,329,514"/>
+<area shape="rect" id="node17" href="$dd/d65/integral__c_8h.html" title="middleware/utils/ct\l/integral_c.h" alt="" coords="195,563,329,605"/>
+<area shape="rect" id="node19" href="$db/d43/next_8h.html" title="middleware/utils/ct\l/next.h" alt="" coords="115,654,249,695"/>
+<area shape="rect" id="node21" href="$d7/ddf/previous_8h.html" title="middleware/utils/ct\l/previous.h" alt="" coords="287,654,421,695"/>
+<area shape="rect" id="node28" href="$df/dc4/ice__or_8h.html" title="middleware/utils/ct\l/ice_or.h" alt="" coords="301,382,435,423"/>
+<area shape="rect" id="node37" href="$dd/d83/code__point_8h.html" title="Code point type (32 bits, unsigned) " alt="" coords="672,291,819,333"/>
+<area shape="rect" id="node39" href="$d2/dc7/xml__decl_8h.html" title="XML declaration (first four octets) used to auto&#45;detect the encoding. " alt="" coords="672,201,819,242"/>
+</map>

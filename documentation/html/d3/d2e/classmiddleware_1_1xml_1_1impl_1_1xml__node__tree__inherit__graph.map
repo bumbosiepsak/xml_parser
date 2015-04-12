@@ -1,0 +1,4 @@
+<map id="middleware::xml::impl::xml_node_tree&lt; Payload &gt;" name="middleware::xml::impl::xml_node_tree&lt; Payload &gt;">
+<area shape="rect" id="node3" href="$db/d02/classmiddleware_1_1xml_1_1impl_1_1xml__node__tree.html" title="{middleware::xml::impl\l::xml_node_tree\&lt; xml\l_node_basic\&lt; Encoding \&gt; \&gt;\n|&#45; children\l|+ xml_node_tree()\l+ xml_node_tree()\l+ ~xml_node_tree()\l+ operator=()\l+ operator==()\l+ swap()\l+ get_children()\l+ set_children()\l}" alt="" coords="7,265,197,474"/>
+<area shape="rect" id="node5" href="$d8/d6a/classmiddleware_1_1xml_1_1xml__node__basic.html" title="{middleware::xml::xml\l_node_basic\&lt; Encoding \&gt;\n|&#45; node_type\l&#45; name\l&#45; value\l|+ xml_node_basic()\l+ xml_node_basic()\l+ xml_node_basic()\l+ operator=()\l+ operator==()\l+ operator!=()\l+ swap()\l+ get_name()\l+ get_value()\l+ get_type()\land 6 more...\l}" alt="" coords="13,526,192,794"/>
+</map>

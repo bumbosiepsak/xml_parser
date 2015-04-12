@@ -1,0 +1,6 @@
+var classmiddleware_1_1xml_1_1impl_1_1local_1_1xml__decoder__selector__optimized_3_011_00_01_xml_encodings_00_01_xml_stream_01_4 =
+[
+    [ "decoder_type", "d0/d62/classmiddleware_1_1xml_1_1impl_1_1local_1_1xml__decoder__selector__optimized_3_011_00_01_xml_encodings_00_01_xml_stream_01_4.html#af6b999b62c2ca5d73cc8b2ab345af59c", null ],
+    [ "xml_decoder_selector_optimized", "d0/d62/classmiddleware_1_1xml_1_1impl_1_1local_1_1xml__decoder__selector__optimized_3_011_00_01_xml_encodings_00_01_xml_stream_01_4.html#a08f4c3a7fe0cde9b572dadf448100ba6", null ],
+    [ "select", "d0/d62/classmiddleware_1_1xml_1_1impl_1_1local_1_1xml__decoder__selector__optimized_3_011_00_01_xml_encodings_00_01_xml_stream_01_4.html#a13294673f6d7ba4dc564069551d12d76", null ]
+];
